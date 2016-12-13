@@ -1,0 +1,14 @@
+c:\users\evan\documents\visual studio 2012\Projects\Wargames\Wargames\bin\Debug\Wargames.exe.config
+c:\users\evan\documents\visual studio 2012\Projects\Wargames\Wargames\bin\Debug\Wargames.exe
+c:\users\evan\documents\visual studio 2012\Projects\Wargames\Wargames\bin\Debug\Wargames.pdb
+c:\users\evan\documents\visual studio 2012\Projects\Wargames\Wargames\obj\Debug\Wargames.csprojResolveAssemblyReference.cache
+c:\users\evan\documents\visual studio 2012\Projects\Wargames\Wargames\obj\Debug\Wargames.Form1.resources
+c:\users\evan\documents\visual studio 2012\Projects\Wargames\Wargames\obj\Debug\Wargames.Properties.Resources.resources
+c:\users\evan\documents\visual studio 2012\Projects\Wargames\Wargames\obj\Debug\Wargames.csproj.GenerateResource.Cache
+c:\users\evan\documents\visual studio 2012\Projects\Wargames\Wargames\obj\Debug\Wargames.exe
+c:\users\evan\documents\visual studio 2012\Projects\Wargames\Wargames\obj\Debug\Wargames.pdb
+c:\users\evan\documents\visual studio 2012\Projects\Wargames\Wargames\obj\Debug\Wargames.Form2.resources
+C:\Users\Evan\Documents\Visual Studio 2012\Projects\Wargames\Wargames\obj\Debug\Wargames.lowerBorderLine.resources
+C:\Users\Evan\Desktop\Coding\Projects\Wargames\Wargames\bin\Debug\Wargames.exe.config
+C:\Users\Evan\Desktop\Coding\Projects\Wargames\Wargames\obj\Debug\Wargames.exe
+C:\Users\Evan\Desktop\Coding\Projects\Wargames\Wargames\obj\Debug\Wargames.pdb
